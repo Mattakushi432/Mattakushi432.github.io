@@ -30,6 +30,6 @@ Since July 2022, I have been actively working in system administration and DevOp
 
 ---
 📫 **How to reach me:** 
-* [Telegram](@ZakrevskyiMax)
+* [Telegram](t.me/ZakrevskyiMax)
 
 *Always open to interesting projects related to Python, DevOps, and AI integration!*
